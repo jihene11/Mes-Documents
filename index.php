@@ -10,9 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <p>
-            hello!!!
-        </p>
         <?php
         // put your code here
         echo "salut jiji";
